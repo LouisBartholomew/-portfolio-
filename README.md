@@ -14,8 +14,7 @@ Here comes the data visualizations! Perhaps something on the need to replace hig
 
 # HW 2
 
-# OECD Graph 
-# https://data.oecd.org/chart/6Bm3
+https://louisbartholomew.github.io/HW2.md/
 
 # HW 3/4
 
