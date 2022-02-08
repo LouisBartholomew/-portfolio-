@@ -18,7 +18,7 @@ https://louisbartholomew.github.io/HW2.md/
 
 # HW 3/4
 
-# Part I: Select Visualization
+## Part I: Select Visualization
 
 I wanted to examine visualizations relating to federal spending, specifically the breakdown of different programs over time. The visualization I focused on represented total federal spending, broken down into distinct categories, over 5 years including projections (2020 to 2025). The underlying dataset was already relatively simplified, so minimal cleaning was required.
   
@@ -26,7 +26,7 @@ I wanted to examine visualizations relating to federal spending, specifically th
   ![image](https://user-images.githubusercontent.com/81240014/152915933-3a47a0ed-4b36-45d0-8465-662054d68970.png)
 
 
-# Part II: Critique the Data Visualization
+## Part II: Critique the Data Visualization
   
   ![image](https://user-images.githubusercontent.com/81240014/152916281-bad29ea8-c54e-47f1-a74b-fca5d979e4cb.png)
   
@@ -80,7 +80,7 @@ One additional measure I would include is accessibility; are readers who are per
 One recommendation for this visualization I would have is to change it from a pie chart to something that shows trends over time, such as a line or bar chart. I'm not exactly sure what this would look like, but will delve more into exact design in the mock up phase.
 
 
-# Part III: Wireframe a Solution
+## Part III: Wireframe a Solution
 
 My first possible solution above attempted to show fewer spending categories (just over Defense, Welfare, Transportation, Pensions, and Education) in order to not overwhelm the audience with lots of small categories. I also wanted to use the different years’ data that was available to show trends of spending in each category over time.
 
@@ -92,6 +92,7 @@ My second possible solution was a time series line chart showing federal spendin
 
 
 ![image](https://user-images.githubusercontent.com/81240014/152916889-23543b14-8e75-4658-9096-bdaef5ea19ac.png)
+
 
 
 ## Part IV: Test the Solution
@@ -108,6 +109,47 @@ What would you change or do differently?
 '
 
 ## Feedback
+
+# What are the first things you notice about this visualization?
+
+Ayesha: The first visualization is very colorful and has distinct categories. I like how the colors are clear and strong, but pen markings could be more precise. The second one is more intuitive to read, because of the trendlines.
+
+Robert: Why are there only five categories for spending? Is the goal to show certain categories? Why did you choose these 5 particular programs to illustrate over time?
+
+
+# What do you think this visualization is describing? What do you think is confusing?
+
+Ayesha: Is it showing federal spending or state spending? I’m not sure which it is. And is this US centric or another nation?
+
+Robert: Which country is this? I would guess that it is the US given the focus of your class, but I’m not sure. It could also be a specific US state, I suppose.
+
+
+# Who do you believe the intended audience for this is?
+
+Ayesha: I would guess that this is for policymakers, but could also be a general audience? There doesn’t seem to be a lot of explanation for terms, which makes me think it’s being simplified so it can be consumed by an audience not necessarily versed in policy lingo.
+
+Robert: Definitely an external document. It seems like it’s not attempting to explain all elements, which makes me think it’s for non-expert audiences. However, that might just be because of the format of the mockup. If it were not a sketch and instead in Tableau or Excel, I might think differently.
+
+
+# What would you change or do differently?
+
+Ayesha: For both visualizations, I would include a key that describes which nation and government we’re talking about, as well as explanations of the key terms. I’m not sure what pensions is referring to, or what welfare is. Is that social security and medicare? Or just one facet?
+
+Robert: I like the differing color scheme, but I think the second visualization gets closer to a useful graphic. I wonder if it would be more useful to a general audience to see total spending across categories, instead of % of GDP? Using percent of GDP can sometimes be an odd metric because recessions can cause huge relative jumps in certain categories (such as unemployment or economic stimulus) and downgrades in other types of spending. 
+
+
+
+## Part V: Build a Solution
+
+After speaking with both Robert and Ayesha, I decided to model my solution off of my second visualization, showing trends in categories across time using a time series visualization. And instead of showing spending as a percent of GDP, I went with absolute values to compensate for possible fluctuations of economic activity.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/8637626"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+	This visualization identifies seven of the larger areas of spending capability of the US federal government. I determined that cutting away some of the smaller programs decluttered the visualization, because my feedback never mentioned the visuals feeling cluttered or too busy. 
+	Compared to the original pie chart visualization, this new line chart makes better use of the underlying data and is able to tell a story for the audience. Namely, what are current spending capabilities, and how might they change due to future projections?
+	
+	Readers are also able to click on and compare levels of spending, something the original visualization didn’t have. If this were part of the website, I would also include relevant links on each of the categories that might explore each area of spending in more detail.
 
 
 
