@@ -146,8 +146,6 @@ After speaking with both Robert and Ayesha, I decided to model my solution off o
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8637626"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/8566207"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
 
 This visualization identifies seven of the larger areas of spending capability of the US federal government. I determined that cutting away some of the smaller programs decluttered the visualization, because my feedback never mentioned the visuals feeling cluttered or too busy. 
 
