@@ -139,7 +139,7 @@ Robert: I like the differing color scheme, but I think the second visualization 
 
 
 
-## Part V: Build a Solution
+# Part V: Build a Solution
 
 After speaking with both Robert and Ayesha, I decided to model my solution off of my second visualization, showing trends in categories across time using a time series visualization. And instead of showing spending as a percent of GDP, I went with absolute values to compensate for possible fluctuations of economic activity.
 
