@@ -143,6 +143,7 @@ Robert: I like the differing color scheme, but I think the second visualization 
 
 After speaking with both Robert and Ayesha, I decided to model my solution off of my second visualization, showing trends in categories across time using a time series visualization. And instead of showing spending as a percent of GDP, I went with absolute values to compensate for possible fluctuations of economic activity.
 
+# Modified Solution
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8637626"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
