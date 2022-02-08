@@ -18,6 +18,13 @@ https://louisbartholomew.github.io/HW2.md/
 
 # HW 3/4
 
+# Step I: Select Visualization
+
+	I wanted to examine visualizations relating to federal spending, specifically the breakdown of different programs over time. The visualization I focused on represented total federal spending, broken down into distinct categories, over 5 years including projections (2020 to 2025). The underlying dataset was already relatively simplified, so minimal cleaning was required.
+  
+  
+
+
 # Final Project, Part I
 
 # Final Project, Part II
