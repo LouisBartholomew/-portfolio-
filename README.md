@@ -143,13 +143,16 @@ Robert: I like the differing color scheme, but I think the second visualization 
 
 After speaking with both Robert and Ayesha, I decided to model my solution off of my second visualization, showing trends in categories across time using a time series visualization. And instead of showing spending as a percent of GDP, I went with absolute values to compensate for possible fluctuations of economic activity.
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/8637626"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div 
+     class="flourish-embed flourish-chart" data-src="visualisation/8637626"><script src="https://public.flourish.studio/resources/embed.js"></script>
+</div>
 
 
-	This visualization identifies seven of the larger areas of spending capability of the US federal government. I determined that cutting away some of the smaller programs decluttered the visualization, because my feedback never mentioned the visuals feeling cluttered or too busy. 
-	Compared to the original pie chart visualization, this new line chart makes better use of the underlying data and is able to tell a story for the audience. Namely, what are current spending capabilities, and how might they change due to future projections?
+This visualization identifies seven of the larger areas of spending capability of the US federal government. I determined that cutting away some of the smaller programs decluttered the visualization, because my feedback never mentioned the visuals feeling cluttered or too busy. 
+
+Compared to the original pie chart visualization, this new line chart makes better use of the underlying data and is able to tell a story for the audience. Namely, what are current spending capabilities, and how might they change due to future projections?
 	
-	Readers are also able to click on and compare levels of spending, something the original visualization didn’t have. If this were part of the website, I would also include relevant links on each of the categories that might explore each area of spending in more detail.
+Readers are also able to click on and compare levels of spending, something the original visualization didn’t have. If this were part of the website, I would also include relevant links on each of the categories that might explore each area of spending in more detail.
 
 
 
