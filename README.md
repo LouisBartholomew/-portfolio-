@@ -1,4 +1,4 @@
-# -portfolio-
+# -Portfolio-
 Initial set up of portfolio
 
 # About me
