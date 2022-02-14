@@ -20,6 +20,7 @@ Initial DataViz: Initial levels of travel by category shown on graph at 1960, th
 
 ## Initial Sketches
 
+![IMG-1209](https://user-images.githubusercontent.com/81240014/153794669-a7d789d4-ac77-4161-9868-c3546294533b.jpg)
 
 
 ## Data Sources
@@ -28,6 +29,7 @@ Cheryl D. Fryar, M.S.P.H., Margaret D. Carroll, M.S.P.H., and Joseph Afful, M.S.
 
 https://www.cdc.gov/nchs/data/hestat/obesity-adult-17-18/obesity-adult.htm#Tables
 
+
 In this study, the authors examine levels of obesity in adults over a 60-year time period. They break their findings down by race, gender, class, and geographic location. For the purposes of my final project, I will be using their aggregate data (overall obesity rates) to show that American society has become increasingly unhealthy since 1960.
 
 
@@ -35,7 +37,6 @@ In this study, the authors examine levels of obesity in adults over a 60-year ti
 “US Passenger Miles.” US Bureau of Transportation, 2021.
 
 https://www.bts.gov/content/us-passenger-miles
-
 
 
 This dataset shows US passenger miles (in millions) of Americans each year, meaning the total miles traveled by all Americans by different transport modes. I will center on the increase in miles traveled by light vehicles (personal automobiles), the plummeting levels of train miles traveled in the postwar period (and its subsequent stabilization), and the steady decline of all other modes of public transit.
