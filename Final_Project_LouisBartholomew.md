@@ -1,6 +1,4 @@
-# -portfolio-
-
-# Final Project Part I
+# -Final Project Part I-
 
 ## Outline
 
