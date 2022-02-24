@@ -34,6 +34,17 @@ scenario in which you would take a bus or bike? What is missing that would enabl
 specific ways you can support all modes of transit in our city, rather than just cars.
 
 
+## User Research Protocol
+
+# Target Audience
+
+| Audience | Description |
+| -------- | ----------- |
+| Target Audience | Health-conscious people who primarily use a car but would be open to using other modes if they were more educated on the health benefits. |
+| Sample | The sample for interviews is limited to three people, all of whom primarily use cars but have used other modes of transport when needed (or more convenient). These individuals are: User 1, who is in his late 60s living in Washington, DC; User 2, who is a young medical professional in Philadelphia; and User 3, a middle-aged math tutor and writer in New York City.
+
+
+
 
 
 
