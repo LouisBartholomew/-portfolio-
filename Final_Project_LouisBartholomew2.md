@@ -41,7 +41,7 @@ specific ways you can support all modes of transit in our city, rather than just
 | Audience | Description |
 | -------- | ----------- |
 | Target Audience | Health-conscious people who primarily use a car but would be open to using other modes if they were more educated on the health benefits. |
-| Sample | The sample for interviews is limited to three people, all of whom primarily use cars but have used other modes of transport when needed (or more convenient). These individuals are: User 1, who is in his late 60s living in Washington, DC; User 2, who is a young medical professional in Philadelphia; and User 3, a middle-aged math tutor and writer in New York City.
+| Sample | The sample for interviews is limited to three people, all of whom primarily use cars but have used other modes of transport when needed (or more convenient). These individuals are: User 1, who is in his late 60s living in Washington, DC; User 2, who is a young medical professional in Philadelphia; and User 3, a middle-aged math tutor and writer in New York City. These three individuals were chosen because of their openess to other modes of transport, and are not concentrated in any one gender, racial, or age group. Since this is still a small sample size, there is still significant risk of bias, so further user research may be necessary for underrepresented groups.
 
 
 # Research Goals
@@ -57,13 +57,16 @@ specific ways you can support all modes of transit in our city, rather than just
 
 # Interview Findings
 
-| Goal | Main Findings |
-| ---- | ------------- |
-| Relevance of information and visualizations |
-| Accessibility of info |
-| Veracity of arguments |
-| Committment |
-| Areas for growth |
+| Goal | Main Findings | Plan on Changing |
+| ---- | ------------- | ---------------- |
+| Relevance of information and visualizations | All three respondants found that information presented was new, specifically the graph of different events that have contributed to change in car usage and public transportation. Two users agreed that the last graph was not very readable for events, and could be improved to show story of how those events were shaped by car policies. One user stated that there was a "Clear story arc," but that he wasn't convinced of the call to action. He wanted it to be more individualized, with specific actions he could take, rather than a general political response. | I want to have more color in final mockups (I kept it black and white for initial mockups). Color can be used to highlight specific trends (like comparing US vs European health and car trends). |
+| Accessibility of info | All users agreed that graph with events was less clear and cluttered, one user didn’t understand why it was in there. Wasn’t telling them why cars were bad, more just descriptive statistics. Another common theme was that some of the graphs needed clearer axis labels, and the comparison to other European countries was confusing given that there wasn't any attendant health data for those countrires. | Final renderings will include more consistent axis titles and formatting. Some users were confused by lack of clear labeling, which will also be more clear. Captions and explanations can be expanded for a few of the less clear aspects (like explaining key events). |
+| Veracity of arguments | Arguments presented were compelling in some ways, but weren't convinced that obesity was a causation, but probably just a correlation. The link doesn't seem as clear. | I will shift my final project to focus more on how cars are bad for our health, then move towards all the negative effects (pollution, obesity, heart disease, asthma, etc.) Despite those negative effects, car ownership has grown, with specific events that have contributed to that increase. |
+| Committment | All users were confused why there was such a Pittsburgh focus given the intended audience. Consistent variation of a suggestion that the focus of the presentation should be more Pittsburgh specific, or make the recommendation and call to action more general. | Call to action should focus more on how can we stop car growth and move to more healthy modes of travel? Find long-term opportunities to live closer to work, use public transit, biking when able, or walk to work. These actions will improve your health, the health of your family, and that of your community. |
+| Areas for growth | One user suggested that rather than focusing more on why it is bad rather than what has led to its increase may be more of a compelling narrative. Another user suggested that I could focus more on links to personal health, or why it is bad for society. To that end, they wanted a graph that showed all the key health metrics across those years, with obesity, Pollution, Heart Disease, etc., all on one graph. | Areas for growth mainly covered in veracity and commitment sections above.
+
+
+
 
 
 
