@@ -44,6 +44,28 @@ specific ways you can support all modes of transit in our city, rather than just
 | Sample | The sample for interviews is limited to three people, all of whom primarily use cars but have used other modes of transport when needed (or more convenient). These individuals are: User 1, who is in his late 60s living in Washington, DC; User 2, who is a young medical professional in Philadelphia; and User 3, a middle-aged math tutor and writer in New York City.
 
 
+# Research Goals
+
+| Goal | Questions |
+| ---- | --------- |
+| Relevance of information and visualizations | Was the information presented new for you? Were the explanations and flow of information intuitive? Did you see a comprehensive story arc throughout? |
+| Accessibility of info | Was information presented in a way that was easily understood? Any areas that were unclear or questions on why certain ideas were included?
+| Veracity of arguments | Were the arguments presented compelling? 
+| Committment | Would you go to Move PGH's website to learn more about ways in which you could possibly use public transit and biking more in your daily life, as well as advocate for those city changes with your local representative?
+| Areas for growth | What parts of the narrative can be made stronger, modified, or cut?
+
+
+# Interview Findings
+
+| Goal | Main Findings |
+| ---- | ------------- |
+| Relevance of information and visualizations |
+| Accessibility of info |
+| Veracity of arguments |
+| Committment |
+| Areas for growth |
+
+
 
 
 
