@@ -40,3 +40,7 @@ Going forward, I definitely want to continue experimenting more with Tableau and
 
 The 1-minute presentation format also helped me narrow my focus and really direct my research. Instead of going into all the health effects of long commutes (lack of sleep and what that does, all physical ailments, and the past events that have led to car-centric infrastructure), I kept my focus on a clear, concise narrative that would be easy to follow for a busy consumer. If I had more time, I would have liked to add one more timeline chart with key events that resulted in increased suburbanization and car usage in the United States (advent of the Federal Housing Administration, the Interstate Highway Act, the bankruptcy of public transit agencies, etc.). 
 
+Link to Final Presentation/Final Data Story
+
+https://carnegiemellon.shorthandstories.com/the-unexpected-role-of-cars-in-public-health/index.html
+
