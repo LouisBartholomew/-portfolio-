@@ -14,7 +14,7 @@ Here comes the data visualizations! Perhaps something on the need to replace hig
 
 # HW 2
 
-https://louisbartholomew.github.io/HW2.md/
+https://louisbartholomew.github.io/HW2.html
 
 # HW 3/4
 
