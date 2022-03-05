@@ -14,7 +14,7 @@ Here comes the data visualizations! Perhaps something on the need to replace hig
 
 # HW 2
 
-https://louisbartholomew.github.io/HW2.html
+https://louisbartholomew.github.io/HW2.md/
 
 # HW 3/4
 
@@ -158,7 +158,13 @@ Readers are also able to click on and compare levels of spending, something the 
 
 # Final Project, Part I
 
+https://louisbartholomew.github.io/portfolio/Final_Project_LouisBartholomew.html
+
 # Final Project, Part II
 
+https://louisbartholomew.github.io/portfolio/Final_Project_LouisBartholomew2.html
+
 # Final Project, Part III
+
+https://louisbartholomew.github.io/portfolio/Final_Project_LouisBartholomew3.html
 
